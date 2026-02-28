@@ -1,0 +1,9 @@
+{
+    "871ff453-2d5a-49e7-887e-ffaffcae18ee": {
+        "name": "Test User",
+        "email": "test@example.com",
+        "useCase": "Test case for verifying backend integration.",
+        "createdAt": "2026-02-28T05:08:21.745Z",
+        "active": true
+    }
+}
